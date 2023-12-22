@@ -1,0 +1,22 @@
+/* .contanier{
+  display: block;
+  margin-left: 20rem;
+  background-color: red;
+  border: 2px  solid;
+  width: 20rem;
+
+} */
+
+.container1{
+  background-color: gray;
+  color: black;
+  border: 2px solid;
+  width: 15rem;
+  display: inline-block;
+  margin: 5px;
+  margin-left: 3rem;
+}
+.close{
+  background-color: red;
+}
+
